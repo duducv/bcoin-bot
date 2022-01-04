@@ -1,0 +1,12 @@
+{
+    "start_delay": 3,
+    "heroes_page_first_action_delay": 3,
+    "treasure_hunt_first_action_delay": 5,
+    "after_sent_to_work_delay": 2,
+    "after_close_heroes_page_delay": 5,
+    "check_for_heroes_able_to_work_delay": 600,
+    "after_click_metamask_sign_blue_btn_delay": 10,
+    "after_click_metamask_connect_delay": 20,
+    "after_click_connect_orange_btn_delay": 5,
+    "wait_for_page_refresh_delay": 60
+}
